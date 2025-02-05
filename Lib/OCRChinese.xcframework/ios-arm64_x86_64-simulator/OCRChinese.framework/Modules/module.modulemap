@@ -1,0 +1,6 @@
+framework module OCRChinese {
+  umbrella header "OCRChinese.h"
+  export *
+
+  module * { export * }
+}
