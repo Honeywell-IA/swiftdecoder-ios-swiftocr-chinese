@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>.DS_Store</key>
+		<data>
+		ZhWDgC4lCZwsN6a4oVdrKkbhZbU=
+		</data>
 		<key>ios-arm64/OCRChinese.framework/.DS_Store</key>
 		<data>
 		BbzmXSp9O9ai483e4k0yZe/fZvs=
